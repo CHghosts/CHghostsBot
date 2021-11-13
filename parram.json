@@ -1,0 +1,30 @@
+{
+    "servers": {
+        "1651651351431565831": {
+            "name": "fafa",
+            "log": true,
+            "channelLogId": "51981065435469816"
+        },
+        "165165135144565831": {
+            "name": "fafa",
+            "log": false,
+            "channelLogId": ""
+        },
+        "654153616581356165": {
+            "name": "fafa",
+            "log": false,
+            "channelLogId": ""
+        },
+        "1657651351431565831": {
+            "name": "fafa",
+            "log": true,
+            "channelLogId": "51981065435469816"
+        },
+        "1651651751431565831": {
+            "name": "fafa",
+            "log": true,
+            "channelLogId": "51981065435469816"
+        }
+    }
+
+}
